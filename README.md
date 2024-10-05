@@ -16,7 +16,7 @@
 </br>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKjkk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKjkk&size_weight=1&count_weight=0&layout=compact)
+
 
 
 ## Skill's - Programs
