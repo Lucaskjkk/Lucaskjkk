@@ -35,6 +35,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" vspace="5" hspace="5" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" vspace="5" hspace="5" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" vspace="5" hspace="5" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" vspace="5" hspace="5" width="40" height="40"/>
 
 ## Skill's - Data Base
 
