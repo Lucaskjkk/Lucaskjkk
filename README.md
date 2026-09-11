@@ -1,12 +1,61 @@
-# Lucas Ferreira Balduino
+<div align="center">
 
-Software Engineer focused on building scalable software systems and machine learning solutions, with strong expertise in LLM-based systems, Multi-Agent architectures, and intelligent automation.
+# Lucas Balduino
 
-Experience designing and developing AI agents using LangChain and LangGraph, including agent orchestration, task delegation, state management, and complex workflow automation.
+### Software Engineer | Machine Learning Engineer
 
-Developing Machine Learning and RAG pipelines, integrating LLMs and intelligent models with real-world systems such as ERPs, databases, and external APIs.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Multi-Agent+Systems;Backend+%7C+Cloud+%7C+AI" />
 
-Strong backend engineering background with Python, Node.js, Django, and .NET, designing scalable, reliable services and architectures that support intelligent and distributed systems.
+<br>
 
-Hands-on experience with PostgreSQL, MySQL, SQL Server, MongoDB, and containerized environments using Docker, combining software engineering principles with machine learning and AI technologies.
+<p> 
+<img src="https://skillicons.dev/icons?i=linkedin,discord" /> 
+</p>
 
+</div>
+
+---
+
+## About Me
+
+Software Engineer focused on building scalable systems and machine learning solutions, with strong expertise in LLM-based systems, Multi-Agent architectures, RAG pipelines, and intelligent automation.
+
+I work at the intersection of **Software Engineering, Machine Learning and AI**, designing backend systems and intelligent applications that solve real-world problems.
+
+---
+
+## Technologies
+
+### Languages & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,c,cs,dotnet,flask,bun,rabbitmq,redis,anaconda" />
+</p>
+
+### AI & Machine Learning
+
+<p> 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,r,sklearn,opencv,matlab" /> 
+</p>
+
+**ML · LLMs · RAG · LangChain · LangGraph · Multi-Agent Systems**
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,linux,git,github,jenkins,cloudflare,nginx,prometheus,grafana" />
+</p>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lucaskjkk&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+### Building software. Engineering intelligent systems.
+
+</div>
