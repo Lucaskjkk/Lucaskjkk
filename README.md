@@ -3,14 +3,11 @@
 # Lucas Balduino
 
 ### Software Engineer | Machine Learning Engineer
+### Creator of [Stillk](https://github.com/Lucaskjkk/stillk)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Multi-Agent+Systems;Backend+%7C+Cloud+%7C+AI" />
 
 <br>
-
-<p> 
-<img src="https://skillicons.dev/icons?i=linkedin,discord" /> 
-</p>
 
 </div>
 
