@@ -43,16 +43,3 @@ I work at the intersection of **Software Engineering, Machine Learning and AI**,
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,linux,git,github,jenkins,cloudflare,nginx,prometheus,grafana" />
 </p>
 
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucaskjkk&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
-### Building software. Engineering intelligent systems.
-
-</div>
